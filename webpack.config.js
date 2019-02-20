@@ -18,7 +18,7 @@ var config = {
                     {
                         loader: 'babel-loader',
                         options: {
-                            presets: ['env', 'stage-0']
+                            presets: ['env']
                         }
                     }
                 ],
